@@ -5,6 +5,8 @@ Budget Tracker is a progressive web application that allows the user to add or s
 To install the required dependencies, run the command npm install
 ## To use
 To use the application, run npm start
+Go to http://localhost:3000 in your preferred browser
+
 ## Application preview
 <img src="images/screenshot.png">
 
