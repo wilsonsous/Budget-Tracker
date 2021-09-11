@@ -1,5 +1,12 @@
 # Budget-Tracker
-
+## Description
+Budget Tracker is a progressive web application that allows the user to add or subtract expenses within their budget at any given scenerio. Users are able to access such database online/offline or with poor internet connection at their disposal.
+## Installation 
+To install the required dependencies, run the command npm install
+## To use
+To use the application, run npm start
+## Application preview
+<img src="images/screenshot.png">
 ## User Story
 AS AN avid traveller
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
