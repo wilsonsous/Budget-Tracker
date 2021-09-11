@@ -6,6 +6,7 @@ To install the required dependencies, run the command npm install
 ## To use
 To use the application, run npm start
 Go to http://localhost:3000 in your preferred browser
+
 Deployed Heroku link: https://fast-escarpment-52282.herokuapp.com/
 
 ## Application preview
