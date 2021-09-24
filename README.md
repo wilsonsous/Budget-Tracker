@@ -10,6 +10,13 @@ Budget Tracker is a progressive web application that allows the user to add or s
   * [Contributing](#contributing)
   * [Questions](#questions)
 
+   # Technologies used
+   - HTML
+   - CSS
+   - JAVASCRIPT
+   - Heroku
+   - MongoDB
+
 ## Installation 
 To install the required dependencies, run the command npm install
 ## To use
