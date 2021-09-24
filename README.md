@@ -10,6 +10,9 @@ Go to http://localhost:3000 in your preferred browser
 Deployed Heroku link: https://fast-escarpment-52282.herokuapp.com/
 
 ## Application preview
+![Screen Shot 2021-09-24 at 3 19 41 AM (2)](https://user-images.githubusercontent.com/78562158/134634418-5d2144f1-6c13-4fb1-a8db-9dd930ebe879.png)
+
+
 <img src="images/screenshot.png">
 
 ## User Story
